@@ -1,0 +1,36 @@
+====== Samsung Tab A SM-T585 ======
+
+[[samsmt|Back]]
+
+===== Unlocking =====
+
+This device can be unlocked via Z3X Box, if unlocking fails flash engineering modem from the flash files drive and retry
+
+  - Power on the device normally and skip through startup wizard
+  - Open dialler and enter *#0808#
+  - Select DM+MODEM+ADB from the list
+  - Connect device to the PC with a micro USB cable
+  - Open Z3X Samsung Tool Pro (Connect Z3XBox from VHUI client)
+  - Select SM-T585 and open Unlocking tab
+  - Press unlock and wait for operation to complete
+
+===== Flash & Debrand =====
+
+==== Flashing ====
+
+  - Put the device into download mode by holding Volume Down, Home and Power buttons
+  - Connect the device(s) to the PC via micro USB cable (up to 8 devices can be flashed simultaneously)
+  - Open Odin flash software on your PC
+  - Click each button (BL,CP, AP and CSC) and add the matching files from the devices folder on the flash files drive. If only one file exists in the folder open it in the AP section
+  - Once all files are loaded click start to begin flashing
+  - Once flashing is complete it is advised to factory reset the device
+
+==== Debrand & Region Select ====
+
+Normally a simple flash is enough to debrand and change the devices region however occasionally this will fail and the device will retain its original language settings, in this case you will need to change the devices CSC manually by following the guide [[samcscsel|here]]\\ 
+
+===== FRP =====
+
+Google account FRP can be removed by following [[t585frp|this]] method
+
+Samsung reactivation lock has not yet been attempted on this device so remains unknown

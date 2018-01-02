@@ -1,0 +1,16 @@
+====== Google Nexus 6 ======
+\\ 
+[[nexus|Back]]
+
+===== Unlock =====
+
+Unknown 
+
+===== Flashing =====
+
+  - Boot the device into bootloader mode by holding Volume Down and power
+  - Connect the device to the PC and open its folder on the server\
+  - Run Unlock.bat This will remove the bootloader lock (depending on version you may need to enable [[oemunlock|OEM Unlock]]
+  - Once the bootloader is unlocked you can begin the flash by running flash-all.bat
+  - Once the flash is complete reboot to bootloader once more
+  - Run Lock.bat to re-lock the bootloader 

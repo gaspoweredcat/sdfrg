@@ -1,0 +1,14 @@
+====== Inferno UniTool ======
+
+[[start|Back]]
+
+===== Info =====
+
+An excellent tool for flashing of Chinese generic units. it is split into two applications, one for Mediatek Chipsets and one for Qualcomm 
+
+===== Mediatek =====
+
+This is one of the preferred tools for flashing of Mediatek devices, it is capable of handling modern MTK secure devices as well as older ones, it also offers IMEI repair functions and the ability to capture an image from a device however it does not have SIM unlock functionality
+
+==== Flashing ====
+

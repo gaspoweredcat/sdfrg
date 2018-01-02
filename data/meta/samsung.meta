@@ -1,0 +1,23 @@
+a:2:{s:7:"current";a:9:{s:4:"date";a:2:{s:7:"created";i:1507658016;s:8:"modified";i:1513597182;}s:7:"creator";s:12:"paul couzens";s:4:"user";s:7:"ecdtech";s:11:"last_change";b:0;s:11:"contributor";a:1:{s:7:"ecdtech";s:12:"paul couzens";}s:5:"title";s:7:"Samsung";s:11:"description";a:2:{s:15:"tableofcontents";a:4:{i:0;a:4:{s:3:"hid";s:7:"samsung";s:5:"title";s:7:"Samsung";s:4:"type";s:2:"ul";s:5:"level";i:1;}i:1;a:4:{s:3:"hid";s:6:"phones";s:5:"title";s:6:"Phones";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:2;a:4:{s:3:"hid";s:7:"tablets";s:5:"title";s:7:"Tablets";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:3;a:4:{s:3:"hid";s:7:"watches";s:5:"title";s:7:"Watches";s:4:"type";s:2:"ul";s:5:"level";i:2;}}s:8:"abstract";s:364:"Samsung
+
+	*  Back
+
+Phones
+
+	*  GT-Bxxxx Galaxy Chat
+	*  GT-Ixxxx Galaxy S (1st Gen)
+	*  GT-Nxxxx Galaxy Note (1st Gen)
+	*  GT-Sxxxx Galaxy Ace etc
+	*  SM-Axxx Galaxy A
+	*  SM-Gxxx Galaxy S (2nd Gen)
+	*  SM-Jxxx Galaxy J
+	*  SM-Nxxx Galaxy Note (2nd Gen)
+
+Tablets
+
+	*  GT-Pxxxx Galaxy Tab (1st Gen)
+	*  SM-Txxx Galaxy Tab (2nd Gen)
+
+Watches
+
+	*  SM-Rxxx Galaxy Gear";}s:8:"relation";a:2:{s:10:"references";a:12:{s:5:"start";b:1;s:6:"samgtb";b:1;s:6:"samgti";b:1;s:6:"samgtn";b:1;s:6:"samgts";b:1;s:6:"samsma";b:1;s:6:"samsmg";b:1;s:6:"samsmj";b:1;s:6:"samsmn";b:1;s:6:"samgtp";b:1;s:6:"samsmt";b:1;s:6:"samsmr";b:1;}s:10:"firstimage";s:0:"";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}}s:10:"persistent";a:5:{s:4:"date";a:2:{s:7:"created";i:1507658016;s:8:"modified";i:1513597182;}s:7:"creator";s:12:"paul couzens";s:4:"user";s:7:"ecdtech";s:11:"last_change";b:0;s:11:"contributor";a:1:{s:7:"ecdtech";s:12:"paul couzens";}}}

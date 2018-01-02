@@ -1,0 +1,27 @@
+====== LG Devices ======
+\\ 
+
+===== Phones =====
+
+[[lgg6|G6]]\\ 
+[[lgg5|G5]]\\ 
+[[lgg4|G4]]\\ 
+[[lgg4c|G4 Compact]]\\ 
+[[lgg3|G3 D855]]\\ 
+[[lgg2|G2]]\\ 
+[[lggflex|G Flex]]\\ 
+[[lggflex2|G Flex 2]]\\ 
+[[lgv10|V10]]\\ 
+[[lgv20|V20]]\\ 
+[[lgv30|V30]]\\ 
+[[lgh440|Spirit H440n]]\\ 
+[[lgh340|Leon H340n]]\\ 
+
+===== Tablets =====
+
+[[lggpad8|G Pad 8]]\\ 
+
+===== Watches =====
+
+[[lggwatch|G watch]]\\ 
+[[lggwatchr|G Watch R]]\\ 

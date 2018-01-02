@@ -1,0 +1,5 @@
+====== Samsung Boot Jig ======
+
+{{::sambootjig.jpg?400|}}\\ 
+
+The boot jig is simply a micro USB dummy plug with a resistor which causes the device to boot directly into factory mode, this is useful if a device has damaged buttons or is otherwise having problems accessing download mode. Please ask the software team if you need one of these 

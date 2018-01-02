@@ -1,0 +1,11 @@
+====== OEM Unlock ======
+\\ 
+In later versions of android an extra layer of protection was enabled to stop the bootloader being unlocked directly via fastboot, to enable unlocking follow these steps:
+
+  - Boot the device as normal and skip through all startup menus
+  - Open Settings
+  - Open About phone
+  - Tap on the Build Number field 7 times to enable developer mode
+  - Return to the settings menu and open the Development Options
+  - Enable the OEM Unlock field
+  - You can now boot into fastboot or whichever mode is required by your device to unlock the bootloader

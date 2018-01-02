@@ -1,0 +1,18 @@
+====== SM-T585 FRP Removal ======
+
+  - Flash T585XXU2AQA2_BTU2APL2_UK_6.0.1 from flash files drive
+  - Insert a sim card into the device
+  - Boot device and connect to WiFi
+  - Connect device to PC and open FRPToolPro (if you have not previously used this software you will need to [[frpproact|activate]] it
+  - Select the Bypass tab
+  - Ensure the samsung modem is selected in the PORT box at the top of the window
+  - Enter any phone number and press dial, the device will now attempt to make a call
+  - Hang up the call and press the Create contact button (select device if asked where to store contact)
+  - Expand the contact options by pressing the arrow at the bottom right
+  - Click the web address field and add http://addrom.com/bypass and save the contact
+  - Click the web address in the displayed contact, this will open a browser window
+  - Click the Android_6_GAM.apk and QuickShortcutMaker.apk links to download the files
+  - Long press on any text at the bottom to highlight it and select Assist
+  - Type My Files and select the my files app when displayed
+  - Click the android_6_gam.apk apk files to install them, you will be warned about unknown sources, enable it to allow installation of the files
+  - 

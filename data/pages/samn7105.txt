@@ -1,0 +1,22 @@
+====== Galaxy Note 2 LTE N7105 ======
+\\ 
+[[samgtn|Back]]
+\\
+===== Unlock: =====
+\\ 
+Unlock with Z3X
+\\ 
+===== Debrand: =====
+\\ 
+No generic UK firmware available. Closest is EVR (EE UK)\\  
+\\ 
+===== Demo Remove: =====
+\\ 
+Check unit has a valid IMEI, many Samsung demo units do not have an IMEI\\ 
+To remove demo from device flash with 4 file engineering firmware package\\ 
+\\ 
+===== Factory Reset Protection (FRP) & Samsung Account: =====
+\\ 
+FRP is not implemented on devices below android 5.0\\ 
+Password/PIN/Pattern lock can be removed by resetting the device through recovery\\ 
+\\ 

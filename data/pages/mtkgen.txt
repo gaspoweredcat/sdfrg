@@ -1,0 +1,7 @@
+====== Chinese Generic ======
+\\ 
+These devices can span many manufacturers from the likes of networks such as Vodafone or Orange, Cheap unbranded handsets or manufacturers who simply rebrand chinese generic devices, while there is a single flash tool for these devices ensuring you have the correct firmware for the device is key to ensuring it will work as many devices will accept a flash which will destroy them.
+
+As such it is highly recommended to flash these devices via 3rd party tools such as infinity CM2 or Inferno Unitool as they offer some protections against flashing the wrong file and can clone a device to the local machine in case the device is damaged.
+
+Unless you are already familiar with the device please do not attempt to reflash or unlock them 

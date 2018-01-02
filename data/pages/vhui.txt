@@ -1,0 +1,23 @@
+====== Virtualhere Client AKA VHUI ======
+
+Virtualhere is an application to allow the sharing of USB devices, in the case of our server it is used to access the authorization dongles for various unlocking tools you will use, for all intents and purposes it is the same as having the box/dongle connected directly to your PC.
+
+===== How to use =====
+
+Double click the VHUI64.exe file on your desktop 
+
+{{::vhui.png?200|}}
+
+Expand the USB Hubs and then ECDUSB and you will see a list of available boxes and their status
+
+{{::vhui1.png?400|}}
+
+To use a box simply double click it and it will be connected to your PC. If a box is in use by someone else the name of their computer will be listed next to the box, if you need to use a box which is in use please ask the person using it to disconnect
+
+{{::vhui-inuse.png?400|}}
+
+Once connected you can proceed to use the tool you have connected, once you have finished your operation please disconnect the box by double clicking it once more
+
+You will only need to run VHUI64.exe once per reboot of your system, if you close the window it can be reopened from the taskbar by the clock on your PC
+
+{{::vhuitask.png?400|}}

@@ -1,0 +1,22 @@
+====== Blackberry 10 Devices ======
+
+**Please note we cannot SIM unlock or fully debrand blackberry 10 devices in house**
+
+===== Flashing =====
+
+  - Open Z:\Blackberry\BB10_Devices and open the folder for your device
+  - Run the latest autoloader exe file for the device
+  - Connect the blackberry to the PC
+  - The loader should now detect the device and begin flashing 
+  - Once complete you can repack the device
+
+===== Blackberry Protect Removal =====
+
+Please note this process will not work on phones running the very latest blackberry software, ensure you perform this process before flashing the latest firmware to a unit if it is required
+
+  - Open Z:\Blackberry\BB10_Devices and open the folder for your device
+  - Run the exe file which has DEVLOADER at the start of its name
+  - Connect the blackberry device to the PC
+  - The loader will detect the device and begin flashing 
+  - once complete the device will boot with a code at the side of the screen like 0x2DE435AF2331EE this is should clear the blackberry protect account
+  - Now flash the device with the latest firmware by using its autoloader or chimeratool  

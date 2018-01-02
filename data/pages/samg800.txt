@@ -1,0 +1,31 @@
+====== Galaxy S5 Mini G800F ======
+\\ 
+[[samsmg|Back]]
+\\ 
+===== Unlock: =====
+\\ 
+Unlock devices with either [[z3x|Z3X]] or [[chimera|Chimera tool]]\\  
+May require flash of engineering modem before unlock\\  
+\\ 
+To flash engineering modem:\\ 
+\\ 
+  - Boot device in download mode by holding Vol- Home & Power\\ 
+  - Connect device to PC via USB
+  - Open Odin and select the CP box
+  - Select D:/Samsung/Engineering_Modem/G800F_Eng_Modem.tar
+  - Press Start to flash
+  - Unlock device
+  - Reflash device with full firmware package
+\\ 
+===== Debrand: =====
+\\ 
+To debrand device simply flash with clean BTU (generic UK) flash file via Odin\\ 
+\\ 
+===== Demo Remove: =====
+\\ 
+Check unit has a valid IMEI, many Samsung demo units do not have an IMEI\\ 
+To remove demo from device flash with 4 file engineering firmware package\\ 
+\\ 
+===== Factory Reset & Samsung Account: =====
+\\ 
+\\ 

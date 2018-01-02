@@ -1,0 +1,14 @@
+====== Samsung Galaxy J series ======
+
+  * [[samsung|Back]]
+  * [[samj100|SM-J100]]
+  * [[samj120|SM-J120]]
+  * [[samj130|SM-J130]]
+  * [[samj300|SM-J300]]
+  * [[samj310|SM-J310]]
+  * [[samj320|SM-J320]]
+  * [[samj330|SM-J330]]
+  * [[samj500|SM-J500]]
+  * [[samj510|SM-J510]]
+  * [[samj520|SM-J520]]
+  * [[samj530|SM-J530]]

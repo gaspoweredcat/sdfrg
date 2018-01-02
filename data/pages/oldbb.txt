@@ -1,0 +1,98 @@
+====== Blackberry OS4.x-7.x Devices ======
+\\ 
+[[blackberry|Back]]\\ 
+\\ 
+===== Flashing =====
+
+Autoloaders are a convenient way to reload blackberry software and do not require a dongle to use\\
+
+  - Open \Blackberry\BB4-7_Devices\AutoLoaders from the flash file server
+  - Double click the .exe file for the model you want to flash
+  - Connect the device to the PC
+  - The software will detect the device and begin flashing
+  - Once the process is complete the window will close and the device will reboot
+
+If there is no autoloader available please use Chimeratool to flash the device
+
+==== Chimera ====
+
+1. Open VHUI and connect to a Chimeratool enabled dongle\\ 
+2. Run Chimera.exe from Z:/Unlocking/Chimeratool\\ 
+3. Remove the battery from from the blackberry and reinsert it then connect it to the PC, you should see a screen similar to below\\ 
+
+{{::chimera-bb-flash1.png?400|}}
+
+4. Click the Change Software button, here you can select the software version and languages you want to load, note that the vendor ID does not matter as branding is handled by the vendor ID so simply choose the latest version\\ 
+
+{{::chimera-bb-flash2.png?400|}}
+
+5. Once you have selected your software press OK to begin flashing\\ 
+
+{{::chimera-bb-flash3.png?400|}}
+
+6. Once the flash is complete you can click back to perform further operations or remove the device and repack it.\\ 
+
+{{::chimera-bb-flash5-end.png?400|}}
+
+
+===== Unlocking =====
+
+**Please note the Blackberry 9720 cannot be unlocked.**
+
+1. Open VHUI and connect to a Chimeratool enabled dongle\\ 
+2. Run Chimera.exe from Z:/Unlocking/Chimeratool\\ 
+3. Remove the battery from from the blackberry and reinsert it then connect it to the PC, you should see a screen similar to below\\ 
+
+{{::chimera-bb-flash1.png?400|}}
+
+4. Click the Direct Unlock button and the unlock will begin, the process will complete quickly, once complete you can click back to perform more operations or remove the device and repack it.\\ 
+
+{{::chimera-bb-unlock.png?400|}}
+
+===== Debrand =====
+
+**Please note the Blackberry 9720 cannot be unlocked.**
+
+1. Open VHUI and connect to a Chimeratool enabled dongle\\ 
+2. Run Chimera.exe from Z:/Unlocking/Chimeratool\\ 
+3. Remove the battery from from the blackberry and reinsert it then connect it to the PC, you should see a screen similar to below\\ 
+
+{{::chimera-bb-flash1.png?400|}}
+
+4. Select the Advanced button, you will see a dropdown menu of possible operations, select Change Vendor ID/Reset Logo\\ 
+
+{{::chimera-bb-vendor-1.png?400|}}
+
+
+5. Now you will need to select a Vendor ID, if you are not choosing a specific one 301 is a good choice for an unbranded system, also be sure to tick the Reset Logo box\\ 
+
+{{::chimera-bb-vendor-2.png?400|}}
+
+6. Click OK to reset the logo and clear branding. the process is quick and once complete you can click back to perform more operations or repack the device.\\ 
+
+{{::chimera-bb-vendor-3-end.png?400|}}
+
+
+===== Keyboard Change =====
+
+**Please note the Blackberry 9720 cannot be unlocked.**
+
+1. Open VHUI and connect to a Chimeratool enabled dongle\\ 
+2. Run Chimera.exe from Z:/Unlocking/Chimeratool\\ 
+3. Remove the battery from from the blackberry and reinsert it then connect it to the PC, you should see a screen similar to below\\ 
+
+{{::chimera-bb-flash1.png?400|}}
+
+4. Select Change Keyboard from the dropdown menu\\ 
+
+{{::chimera-bb-kb1.png?400|}}
+
+5. Select the layout you wish to apply from the dropdown menu and press OK\\ 
+
+{{::chimera-bb-kb2.png?400|}}
+
+6. The process will complete quickly, you can either go back to continue with other operations or repack the device\\ 
+
+{{::chimera-bb-kb3.png?400|}}
+
+===== Enterprise Account Removal =====

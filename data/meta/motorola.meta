@@ -1,0 +1,62 @@
+a:2:{s:7:"current";a:9:{s:4:"date";a:2:{s:7:"created";i:1512129714;s:8:"modified";i:1512132963;}s:7:"creator";s:12:"paul couzens";s:4:"user";s:7:"ecdtech";s:11:"last_change";a:8:{s:4:"date";i:1512132963;s:2:"ip";s:11:"10.10.40.26";s:4:"type";s:1:"E";s:2:"id";s:8:"motorola";s:4:"user";s:7:"ecdtech";s:3:"sum";s:0:"";s:5:"extra";s:0:"";s:10:"sizechange";i:590;}s:11:"contributor";a:1:{s:7:"ecdtech";s:12:"paul couzens";}s:5:"title";s:16:"Motorola Devices";s:11:"description";a:2:{s:15:"tableofcontents";a:8:{i:0;a:4:{s:3:"hid";s:16:"motorola_devices";s:5:"title";s:16:"Motorola Devices";s:4:"type";s:2:"ul";s:5:"level";i:1;}i:1;a:4:{s:3:"hid";s:6:"phones";s:5:"title";s:6:"Phones";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:2;a:4:{s:3:"hid";s:6:"st_gen";s:5:"title";s:7:"1st Gen";s:4:"type";s:2:"ul";s:5:"level";i:3;}i:3;a:4:{s:3:"hid";s:6:"nd_gen";s:5:"title";s:7:"2nd Gen";s:4:"type";s:2:"ul";s:5:"level";i:3;}i:4;a:4:{s:3:"hid";s:6:"rd_gen";s:5:"title";s:7:"3rd Gen";s:4:"type";s:2:"ul";s:5:"level";i:3;}i:5;a:4:{s:3:"hid";s:6:"th_gen";s:5:"title";s:7:"4th Gen";s:4:"type";s:2:"ul";s:5:"level";i:3;}i:6;a:4:{s:3:"hid";s:7:"tablets";s:5:"title";s:7:"Tablets";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:7;a:4:{s:3:"hid";s:7:"watches";s:5:"title";s:7:"Watches";s:4:"type";s:2:"ul";s:5:"level";i:2;}}s:8:"abstract";s:423:"Motorola Devices
+
+Back
+
+Phones
+
+1st Gen
+
+Moto E XT1021
+
+Moto G XT1032
+
+Moto X XT1058
+
+
+2nd Gen
+
+Moto E2 XT1505 & XT1524
+
+Moto G2 4G XT1072
+
+Moto X2 XT1097
+
+
+3rd Gen
+
+Moto E3 XT1700
+
+Moto G3 XT1541
+
+Moto X Play XT1562
+
+Moto X Style XT1572
+
+Moto Z XT1650
+
+Moto Z Play XT1635
+
+
+4th Gen
+
+Moto E4 XT1766
+
+Moto G4 XT1622
+
+Moto G4 Play XT1604
+
+
+Tablets
+
+Moto Xoom
+
+Moto Xoom 2
+
+
+Watches
+
+Moto 360
+
+Moto 360 2nd Gen
+
+Moto 360 Sport";}s:8:"relation";a:2:{s:10:"references";a:21:{s:4:"home";b:0;s:5:"motoe";b:0;s:5:"motog";b:0;s:5:"motox";b:0;s:6:"motoe2";b:0;s:6:"motog2";b:0;s:6:"motox2";b:0;s:6:"motoe3";b:0;s:6:"motog3";b:0;s:9:"motoxplay";b:0;s:10:"motoxstyle";b:0;s:5:"motoz";b:0;s:9:"motozplay";b:0;s:6:"motoe4";b:0;s:6:"motog4";b:0;s:10:"motog4play";b:0;s:8:"motoxoom";b:0;s:9:"motoxoom2";b:0;s:7:"moto360";b:0;s:8:"moto3602";b:0;s:12:"moto360sport";b:0;}s:10:"firstimage";s:0:"";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}}s:10:"persistent";a:5:{s:4:"date";a:2:{s:7:"created";i:1512129714;s:8:"modified";i:1512132963;}s:7:"creator";s:12:"paul couzens";s:4:"user";s:7:"ecdtech";s:11:"last_change";a:8:{s:4:"date";i:1512132963;s:2:"ip";s:11:"10.10.40.26";s:4:"type";s:1:"E";s:2:"id";s:8:"motorola";s:4:"user";s:7:"ecdtech";s:3:"sum";s:0:"";s:5:"extra";s:0:"";s:10:"sizechange";i:590;}s:11:"contributor";a:1:{s:7:"ecdtech";s:12:"paul couzens";}}}

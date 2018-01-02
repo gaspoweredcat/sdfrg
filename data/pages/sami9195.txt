@@ -1,0 +1,22 @@
+====== Galaxy S4 Mini I9195 ======
+\\ 
+[[samgti|Back]]
+\\
+===== Unlock: =====
+\\ 
+?
+\\ 
+===== Debrand: =====
+\\ 
+To debrand device simply flash with clean BTU (generic UK) flash file via Odin and perform a factory reset\\ 
+\\ 
+===== Demo Remove: =====
+\\ 
+Check unit has a valid IMEI, many Samsung demo units do not have an IMEI\\ 
+To remove demo from device flash with 4 file engineering firmware package\\ 
+\\ 
+===== Factory Reset Protection (FRP) & Samsung Account: =====
+\\ 
+FRP is not implemented on devices below android 5.0\\ 
+Password/PIN/Pattern lock can be removed by resetting the device through recovery\\ 
+\\ 

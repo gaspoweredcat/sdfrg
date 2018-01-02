@@ -1,0 +1,4 @@
+====== SM-G9xx Z3X Box Unlock ======
+// 
+Unlocking device via diag mode on Samsung G9xx series devices\\ 
+{{youtube>TJbXfRQHJgc?medium}}

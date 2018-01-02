@@ -1,0 +1,23 @@
+====== Galaxy S8+ G955F ======
+\\ 
+[[samsmg|Back]]
+\\
+===== Unlock: =====
+\\ 
+This device cannot currently be unlocked in house\\ 
+\\ 
+===== Debrand: =====
+\\ 
+To debrand device simply flash with clean BTU (generic UK) flash file via Odin\\ 
+\\ 
+===== Demo Remove: =====
+\\ 
+Check unit has a valid IMEI, many Samsung demo units do not have an IMEI\\ 
+To remove demo from device flash with 4 file engineering firmware package\\ 
+\\ 
+===== Factory Reset Protection (FRP) & Samsung Account: =====
+\\ 
+Reset FRP & Samsung account via Z3X box or Chimera tool UFS unlock\\ 
+\\ 
+This will require a USB to serial converter such as Z3X box and a samsung compatible UART cable eg C3300K/B3410W/S7070\\  
+\\ 

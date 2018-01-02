@@ -1,0 +1,15 @@
+====== Galaxy Gear S2 R720 ======
+\\ 
+===== Flashing: =====
+\\ 
+**NOTE** - This device does not have a USB connection\\ 
+\\ 
+Flashing is performed via WiFi Odin\\ 
+It can also be flashed directly by removing the rear cover and connecting a jig to the test points inside the device\\ 
+\\ 
+===== Unlocking & FRP: =====
+\\ 
+Non GSM device, does not require unlocking\\ 
+\\ 
+FRP/Samsung account cannot currently be removed from this device\\ 
+

@@ -1,0 +1,24 @@
+====== Galaxy S4 LTE I9505 ======
+\\ 
+[[samgti|Back]]
+\\
+===== Unlock: =====
+\\ 
+Unlock device via [[z3x|Z3X]] or [[chimera|Chimera tool]]\\  
+\\ 
+You may need to enable diagnostic mode to unlock this device\\ 
+Boot the device into recovery mode by holding Volume Up, Home and Power\\ 
+Select "Enable CP Logging" option from the recovery menu\\ 
+\\ 
+===== Debrand: =====
+\\ 
+To debrand device simply flash with clean BTU (generic UK) flash file via Odin and perform a factory reset\\ 
+\\ 
+===== Demo Remove: =====
+\\ 
+Check unit has a valid IMEI, many Samsung demo units do not have an IMEI\\ 
+To remove demo from device flash with 4 file engineering firmware package\\ 
+\\ 
+===== Factory Reset Protection (FRP) & Samsung Account: =====
+\\ 
+\\ 

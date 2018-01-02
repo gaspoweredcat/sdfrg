@@ -1,0 +1,5 @@
+====== Samsung Galaxy Note 2014 and on ======
+
+  * [[samsung|Back]]
+  * [[samn900|SM-N900 Galaxy Note 4 Exynos]]
+  * [[samn910|SM-N910 Galaxy Note 4 LTE]]

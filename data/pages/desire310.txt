@@ -1,0 +1,23 @@
+====== Desire 310 ======
+
+===== Important =====
+
+Warning this device is one of HTCs early Mediatek devices and has many bugs and flaws, it is unlocked via Furious golds OTSmart module however it is a very dangerous operation which can often destroy the devices IMEI and serial number. if you MUST unlock it ensure you take a FULL dump of the device before you begin.
+
+===== Unlocking =====
+
+Do not attempt without contacting software dept
+
+===== Flashing =====
+
+  - Open SPFlashtools on your PC
+  - Select the Scatter button and select the scatter.txt file from the devices folder
+  - Untick the Preloader file from the list of files to be flashed
+  - Press the Download button
+  - Connect the powered off device to the PC via micro USB
+  - The software will now catch the devices loader port and begin flashing
+  - A green circle will be displayed on completion of the flash
+  - Ensure the device has retained its IMEI number and Serial number and that no error message is displayed
+  - You can now repack the device
+
+If you encounter any error messages or lost data contact a member of the software department

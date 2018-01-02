@@ -1,0 +1,33 @@
+====== Desire 300 ======
+\\ 
+[[htc|Back]]\\ 
+
+===== Unlocking =====
+\\ 
+This device is unlocked via [[xtc2clip|XTC2Clip]] hardware\\ 
+
+  - Insert XTC2Clip into devices micro SD card slot
+  - Power on the device into bootloader by holding Volume down & Power buttons
+  - Wait for device to scan the SD card
+  - Scroll down to Simlock with Volume down and select with Power
+  - The device will scan the SD card, reboot and scan the card again
+  - Press Volume up to reboot the device
+  - Simlock is now removed, the device is also set to [[htcsoff|S-Off]] and Generic UK CID is installed (HTC__001)
+  - if the device does not require flashing set [[htcson|S-On]] and repack the unit
+ 
+===== Flash & Debrand =====
+\\ 
+  - Set the device to [[htcson|S-On]] via XTC2Clip
+  - Boot the device into bootloader by holding Volume down & Power
+  - Select the FASTBOOT option with the Power button
+  - Connect the device to the PC
+  - Run the Flash.bat file from the device folder on the server
+  - The device will now be automatically set to Generic UK CID and will be set to S-On at the end of the flash
+  - Ensure the device is set to S-on and repack
+
+===== FRP =====
+\\ 
+  - Insert the XTC2Clip into the devices SD card slot
+  - Boot the device into bootloader by holding Volume down & power
+  - Scroll down to FACTORY RESET and select it with Power
+  - FRP has now been removed from the device 

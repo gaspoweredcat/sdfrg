@@ -1,0 +1,47 @@
+
+<h1 class="sectionedit1" id="htc_s-off">HTC S-Off</h1>
+<div class="level1">
+
+<p>
+HTC devices have a security flag in the bootloader, when this is set to S-Off state the device is set to factory mode and almost any operations can be performed, any compatible firmware can be flashed, region codes can be changed and sim locks are often removed. when S-Off is set there is no need to unlock the bootloader of the device and its warranty remains intact. warranty flags can also be reset to clear any tampering of the device.
+</p>
+
+<p>
+Please note that this state is to be considered dangerous as it is possible to edit or even completely delete important parts of the devices software, please only perform operations via the provided scripts on the flash files server unless you are an advanced user.
+</p>
+
+</div>
+<!-- EDIT1 SECTION "HTC S-Off" [1-734] -->
+<h2 class="sectionedit2" id="s-off_commands">S-Off Commands</h2>
+<div class="level2">
+
+<p>
+When set to S-Off a selection of engineering commands can be executed via HTCs fastboot binary htc_fastboot.exe:
+</p>
+
+<p>
+<strong>htc_fastboot.exe oem writesecureflag 0 or 3</strong>
+</p>
+
+<p>
+This is the command to change the security status, 0 sets the device to S-Off and 3 sets the device to S-On, please do not set the device to any status other than these. these commands can only be executed when the XTC2Clip is in the devices micro SD card slot. You should only set this status for the duration of your operations, once you have finished ensure you set the status back to S-On
+</p>
+
+<p>
+<strong>htc_fastboot.exe oem writecid XXXXXXXX</strong>
+</p>
+
+<p>
+This command changed the country and network branding settings, it is an 8 character upper case code. There are many possible settings but we will almost always use HTC__001 (generic unbranded europe) unless you are flashing a unit to a specific a network branding or language. There is also a special setting known as SuperCID, this is 11111111 and will allow the flashing of software from any region to the device
+</p>
+
+<p>
+<strong>htc_fastboot oem rebootRUU</strong>
+</p>
+
+<p>
+This command places Pre M9 HTC devices into manufacturer update mode, in this mode the flashing of full zip packages is possible by issuing <em>htc_fastboot.exe flash zip &lt;name of zip file&gt;</em> these can be official files or even custom packages you have made, as long as the package has a valid androidinfo.txt within the zip file it will be accepted by the device.
+</p>
+
+</div>
+<!-- EDIT2 SECTION "S-Off Commands" [735-] -->

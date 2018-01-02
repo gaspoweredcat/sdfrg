@@ -1,0 +1,57 @@
+====== HTC Devices ======
+\\ 
+[[start|Back]]\\ 
+
+===== Model Numbers =====
+
+Due to the HUGE range of model numbers for HTC devices which are often unconnected to the devices name (eg the HTC 10 is called the PERFUME) You can fund a full list of models and their names here
+
+[[htcmodlist|Full List of model numbers to names]]
+
+===== Phones =====
+
+==== Pre 2013 devices ====
+
+  * [[htcdream|HTC G1 Dream]]
+  * [[htcsaga|Desire Saga]]
+  * [[htcbravo|Desire S]]
+  * [[htcdesirez|Desire Z G2]]
+  * [[htcmagic|HTC Magic]]
+  * [[htcace|Desire HD Ace]]
+
+==== 2013 to 2016 series ====
+
+=== Generic Page ===
+
+Most Gen 2 HTC devices are almost identical in their operations as such you can follow the simple instructions in the link below, you will only need to view specific model pages if you need any extra information
+
+[[htcgen2ops|HTC Gen 2 Generic Operations]]
+
+=== Devices ===
+
+  * [[htcm4|M4 HTC One Mini]]
+  * [[htcm7|M7]]
+  * [[htcm8|M8]]
+  * [[htcm8mini|M8 Mini (MEM_UL)]]
+  * [[htcm8s|M8S (M8_QL)]]
+  * [[desire300|Desire 300]]
+  * [[desire310|Desire 310]]
+  * [[desire320|Desire 320]]
+  * [[desire600|Desire 600]]
+  * [[desire610|Desire 610]]
+  * [[desire620|Desire 620]]
+  * [[desire800|Desire 800]]
+  * [[desire810|Desire 810]]
+  * [[desire820|Desire 820]]
+
+==== 2016 and onwards ====
+
+  * [[htcm9|M9]]
+  * [[htca9|A9]]
+  * [[htc10|HTC 10]]
+  * [[htcultra|HTC Ultra]]
+  * [[htc11|HTC 11]]
+
+===== Tablets =====
+ 
+  * [[flyer|HTC Flyer]]\\ 

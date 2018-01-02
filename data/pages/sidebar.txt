@@ -1,0 +1,26 @@
+=== Manufacturer ===
+
+  * [[alcatel|Alcatel]]
+  * [[blackberry|Blackberry]]
+  * [[mtkgen|China Generic]]
+  * [[nexus|Google Nexus & Pixel]]
+  * [[htc|HTC]]
+  * [[huawei|Huawei]]
+  * [[lg|LG]]
+  * [[motorola|Motorola]]
+  * [[nokia|Nokia]]
+  * [[samsung|Samsung]]
+  * [[sony|Sony]]
+  * [[vodafone|Vodafone]]
+\\ 
+=== Unlocking Tools ===
+
+  * [[vhui|VirtualHere(VHUI)]]
+  * [[z3x|Z3X Box]]
+  * [[sigma|SigmaKey]]
+  * [[infinity|Infinity Box]]
+  * [[best|Infinity BEST]] 
+  * [[chimera|ChimeraTool]]
+  * [[furious|Furious Gold]]
+  * [[inefrno|InfernoKey]] 
+  * [[xtc2|XTC2 Clip]]

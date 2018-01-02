@@ -1,0 +1,29 @@
+====== Galaxy Nexus S I9200 ======
+\\ 
+[[samgti|Back]]\\ 
+\\ 
+This is a Google Nexus device, although it has an Odin mode it is best to treat it as a standard Nexus device\\ 
+\\  
+===== Unlock: =====
+\\ 
+No sim locked variants of this device were produced\\ 
+\\ 
+===== Debrand: =====
+\\ 
+No branded variants of this device were produced\\ 
+\\ 
+Flash this device via fastboot:\\ 
+  - Boot device into bootloader by holding Volume Down and Power buttons\\ 
+  - Connect to USB cable\\ 
+  - Run Flash-all.bat\\
+  - Agree to bootloader unlock on device\\
+\\ 
+===== Demo Remove: =====
+\\ 
+Check unit has a valid IMEI, many Samsung demo units do not have an IMEI\\  
+\\ 
+===== Factory Reset Protection (FRP) & Samsung Account: =====
+\\ 
+FRP is not implemented on devices below android 5.0\\ 
+Password/PIN/Pattern lock can be removed by resetting the device through recovery\\ 
+\\ 

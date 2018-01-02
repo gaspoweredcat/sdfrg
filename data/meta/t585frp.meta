@@ -1,0 +1,6 @@
+a:2:{s:7:"current";a:8:{s:4:"date";a:2:{s:7:"created";i:1512378942;s:8:"modified";i:1512378942;}s:7:"creator";s:12:"paul couzens";s:4:"user";s:7:"ecdtech";s:11:"last_change";a:8:{s:4:"date";i:1512378942;s:2:"ip";s:11:"10.10.40.26";s:4:"type";s:1:"C";s:2:"id";s:7:"t585frp";s:4:"user";s:7:"ecdtech";s:3:"sum";s:7:"created";s:5:"extra";s:0:"";s:10:"sizechange";i:1224;}s:5:"title";s:19:"SM-T585 FRP Removal";s:11:"description";a:2:{s:15:"tableofcontents";a:1:{i:0;a:4:{s:3:"hid";s:19:"sm-t585_frp_removal";s:5:"title";s:19:"SM-T585 FRP Removal";s:4:"type";s:2:"ul";s:5:"level";i:1;}}s:8:"abstract";s:267:"SM-T585 FRP Removal
+
+	*  Flash T585XXU2AQA2_BTU2APL2_UK_6.0.1 from flash files drive
+	*  Insert a sim card into the device
+	*  Boot device and connect to WiFi
+	*  Connect device to PC and open FRPToolPro (if you have not previously used this software you will need to";}s:8:"relation";a:2:{s:10:"references";a:1:{s:9:"frpproact";b:0;}s:10:"firstimage";s:0:"";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}}s:10:"persistent";a:4:{s:4:"date";a:1:{s:7:"created";i:1512378942;}s:7:"creator";s:12:"paul couzens";s:4:"user";s:7:"ecdtech";s:11:"last_change";a:8:{s:4:"date";i:1512378942;s:2:"ip";s:11:"10.10.40.26";s:4:"type";s:1:"C";s:2:"id";s:7:"t585frp";s:4:"user";s:7:"ecdtech";s:3:"sum";s:7:"created";s:5:"extra";s:0:"";s:10:"sizechange";i:1224;}}}

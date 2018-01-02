@@ -1,0 +1,35 @@
+====== XTC2 Clip ======
+\\ 
+XTC2 clip is used for HTCs 2nd gen and on devices (2013 and on) it works by mimicking HTCs factory java card, This means it is able to perform almost any operation using the official methods as used by HTC.
+\\ 
+===== Gen2 - Up to M8s =====
+\\ 
+  - Insert card into the devices micro SD slot (if there is no micro SD connect to a card reader and Y cable)
+  - Boot the device into bootloader by holding Volume down and power
+  - Once the phone has scanned the card scroll down and select the "SIMLOCK"option
+  - The device will now scan the card, reboot and scan again to set S-Off and CID to Generic European
+  - You can now flash the device as needed
+  - once you have finished all operations set S-On via fastboot command: //htc_fastboot.exe oem writesecureflag 3//
+\\ 
+===== Gen 3 - M9 and above =====
+\\ 
+From gen 3 a new bootloader was introduced, it is split into bootloader, download and FTM modes and the SIMLOCK menu has been removed as such it has to be handled differently.
+\\ 
+==== Flashing ====
+\\ 
+NOTE this process does NOT remove SIM lock\\ 
+\\ 
+  - Insert card into the devices micro SD slot (if there is no micro SD connect to a card reader and Y cable)
+  - Boot into download mode by holding Volume Down and Power buttons
+  - Connect to PC and issue the fastboot command //htc_fastboot.exe oem writesecureflag 0//
+  - Issue the fastboot command //htc_fastboot.exe oem writecid HTC__001// (NOTE: Capital letters are important)
+  - You can now flash the device as needed
+  - Once you have finished all operations set S-On via fastboot command: //htc_fastboot.exe oem writesecureflag 3//
+\\ 
+==== Unlocking ====
+\\ 
+  - Connect the card to a card reader and connect to the PC
+  - Open the XTC2 Tool
+  - Select the Special Unlock/IMEI tab
+  - Select the device you want to unlock
+  - Press the "Copy Files"button

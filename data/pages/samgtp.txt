@@ -1,0 +1,8 @@
+====== GT-Pxxxx Samsung Galaxy Tab 2012/2013 ======
+
+  * [[samsung|Back]]
+  * [[samp3200|GT-P3200 Galaxy Tab 7 WiFi]]
+  * [[samp3210|GT-P3210 Galaxy Tab 7 3G]]
+  * [[samp5200|GT-P5200 Galaxy Tab 10 WiFi]]
+  * [[samp5210|GT-P5210 Galaxy Tab 10 3G]]
+  * [[samp7500|GT-P7500]]

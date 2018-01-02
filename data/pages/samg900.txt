@@ -1,0 +1,47 @@
+====== Galaxy S5 G900F ======
+\\ 
+[[samsmg|Back]]
+\\
+===== Unlock: =====
+\\ 
+Unlock devices with either [[z3x|Z3X]] or [[chimera|Chimera tool]]\\  
+\\ 
+This device must be flashed with [[whatiscomb|COMBINATION]] firmware to unlock\\ 
+Combination packages can be found in D:/Samsung/Combination_Files/ 
+\\ 
+
+To flash combination file:
+\\ 
+  - Boot device in download mode by holding Vol- Home & Power\\ 
+  - Connect device to PC via USB
+  - Open Odin and select the AP box
+  - Select D:/Samsung/Combination_Files/COMBINATION_OXA_FA44_G900FXXU1ANE4_OXA1ANE4_1686381_REV00_user_mid_noship_MULTI_CERT.tar
+  - Press Start to flash
+\\ 
+To Unlock:\\ 
+\\ 
+NOTE: While engineering modem is flashed it is common for the device to display IMEI: 0 this is normal and the imei will be restored upon flashing of the original modem after unlocking.\\ 
+
+  - Open VHUI.exe and connect to Z3X box 
+  - Open Z3X SamsungTool Pro from Start Menu
+  - Select G900F from the model selection menu
+  - Select the Unlock tab at the top of the window
+  - Boot the phone and skip through all startup menus
+  - Open the Factory IME app and enter *#0808# [[combdiag|Video]]
+  - Select DM+MODEM+ADB and connect phone to PC
+  - In the Port section at the top of the window select Samsung Modem port [[g9xxunlockz3x|Video]]
+  - Press the unlock button (if the process fails try again)
+  - Once unlocked Flash device with full firmware to restore original modem
+
+===== Debrand: =====
+\\ 
+To debrand device simply flash with clean BTU (generic UK) flash file via Odin\\ 
+\\ 
+===== Demo Remove: =====
+\\ 
+Check unit has a valid IMEI, many Samsung demo units do not have an IMEI\\ 
+To remove demo from device flash with 4 file engineering firmware package\\ 
+\\ 
+===== Factory Reset Protection (FRP) & Samsung Account: =====
+\\ 
+\\ 

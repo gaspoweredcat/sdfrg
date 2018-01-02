@@ -1,0 +1,24 @@
+====== Galaxy S3 Mini I8190 ======
+\\ 
+[[samgti|Back]]
+\\
+===== Unlock: =====
+\\ 
+Unlock via Z3X\\ 
+\\ 
+To unlock this device you will need a USB to serial converter such as Z3X box and a Samsung UART cable eg C3300k/S7070/B3410W\\ 
+\\ 
+===== Debrand: =====
+\\ 
+To debrand device simply flash with clean BTU (generic UK) flash file via Odin and perform a factory reset\\ 
+\\ 
+===== Demo Remove: =====
+\\ 
+Check unit has a valid IMEI, many Samsung demo units do not have an IMEI\\ 
+To remove demo from device flash with 4 file engineering firmware package\\ 
+\\ 
+===== Factory Reset Protection (FRP) & Samsung Account: =====
+\\ 
+FRP is not implemented on devices below android 5.0\\ 
+Password/PIN/Pattern lock can be removed by resetting the device through recovery\\ 
+\\ 

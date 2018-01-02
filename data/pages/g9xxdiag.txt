@@ -1,0 +1,4 @@
+====== SM-G9xx Diag Mode ======
+\\ 
+Enable Diag port for samsung G9xx unlocking
+{{youtube>bcQODrukE1c?medium}}

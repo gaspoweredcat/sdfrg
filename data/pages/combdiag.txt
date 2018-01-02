@@ -1,0 +1,4 @@
+====== Enable Diag Port in Combination ======
+\\ 
+Enabling samsung diag port for unlock when combination software is loaded, use Factory IME instead of Phone Dialler to enter code *#0808#\\
+{{youtube>DkC0bQ8P2Ls?medium}}

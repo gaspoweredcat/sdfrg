@@ -1,0 +1,43 @@
+====== Motorola Devices ======
+
+[[home|Back]]
+
+===== Phones =====
+
+==== 1st Gen ====
+
+[[motoe|Moto E XT1021]]\\ 
+[[motog|Moto G XT1032]]\\ 
+[[motox|Moto X XT1058]]\\ 
+
+==== 2nd Gen ====
+
+[[motoe2|Moto E2 XT1505 & XT1524]]\\ 
+[[motog2|Moto G2 4G XT1072]]\\ 
+[[motox2|Moto X2 XT1097]]\\ 
+
+==== 3rd Gen ====
+
+[[motoe3|Moto E3 XT1700]]\\ 
+[[motog3|Moto G3 XT1541]]\\ 
+[[motoxplay|Moto X Play XT1562]]\\ 
+[[motoxstyle|Moto X Style XT1572]]\\ 
+[[motoz|Moto Z XT1650]]\\ 
+[[motozplay|Moto Z Play XT1635]]\\ 
+
+==== 4th Gen ====
+
+[[motoe4|Moto E4 XT1766]]\\ 
+[[motog4|Moto G4 XT1622]]\\ 
+[[motog4play|Moto G4 Play XT1604]]\\ 
+
+===== Tablets =====
+
+[[motoxoom|Moto Xoom]]\\ 
+[[motoxoom2|Moto Xoom 2]]\\ 
+
+===== Watches =====
+
+[[moto360|Moto 360]]\\ 
+[[moto3602|Moto 360 2nd Gen]]\\ 
+[[moto360sport|Moto 360 Sport]]\\ 

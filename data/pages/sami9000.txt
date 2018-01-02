@@ -1,0 +1,24 @@
+====== Galaxy S I9000 ======
+\\ 
+[[samgti|Back]]
+\\
+===== Unlock: =====
+\\ 
+Unlock Via Z3X
+\\ 
+===== Debrand: =====
+\\ 
+To debrand device simply flash with clean XEU (generic UK) flash file via Odin and perform a factory reset\\
+\\ 
+If device remains branded or is in wrong language dial *#272*IMEI# which will enable CSC selection, Select XEU\\  
+\\ 
+===== Demo Remove: =====
+\\ 
+Check unit has a valid IMEI, many Samsung demo units do not have an IMEI\\ 
+To remove demo from device flash with 4 file engineering firmware package\\ 
+\\ 
+===== Factory Reset Protection (FRP) & Samsung Account: =====
+\\ 
+FRP is not implemented on devices below android 5.0\\ 
+Password/PIN/Pattern lock can be removed by resetting the device through recovery\\ 
+\\ 

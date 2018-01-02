@@ -1,0 +1,5 @@
+====== What are Samsung COMBINATION Files? ======
+\\ 
+Combination files are Samsung factory engineering flash files, they contain a very limited set of apps and functionality but due to them containing engineering modem files and a permissive kernel they are very useful for unlocking and other operations.\\ 
+
+Once you have finished the operations you need to do remember to flash the device back to a standard firmware version\\ 

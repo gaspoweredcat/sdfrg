@@ -1,0 +1,9 @@
+====== SM-Axxx Samsung Galaxy A Series ======
+
+  * [[samsung|Back]]
+  * [[sama300|SM-A300]]
+  * [[sama310|SM-A310]]
+  * [[sama320|SM-A320]]
+  * [[sama500|SM-A500]]
+  * [[sama510|SM-A510]]
+  * [[sama520|SM-A520]]

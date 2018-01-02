@@ -1,0 +1,8 @@
+====== Desire 320 ======
+\\ 
+===== Important Note =====
+\\ 
+This is a Mediatek HTC device and does not behave as standard HTC devices
+
+Please do not attempt to flash or unlock this device without consulting the software team unless you are 100% sure you know what you are doing
+\\ 

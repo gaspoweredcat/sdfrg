@@ -1,0 +1,39 @@
+====== Z3X Box ======
+\\ 
+===== Info =====
+\\ 
+Z3X Box is a very reliable and relatively user friendly solution for flashing and unlocking of Samsung and LG devices, for Samsung devices there is also a built in firmware downloader should the file not be available on the flash file server. LG firmware can also be downloaded through the shell application but it is not yet integrated into the application like the Samsung version
+\\ 
+===== Samsung Tool Pro =====
+\\ 
+Samsung tool supports a very wide selection of Samsung devices of all ages, it is arguably the best solution for Samsung devices, here you will find some basic information on how to use the software however instructions are provided within the software for convenience.
+\\ 
+On opening samsung tool pro you will see the screen below, select the model you wish to unlock from the list on the left of the window by clicking on it, this will display instructions for all possible operations for that model.
+
+\\ .
+{{::z3x1.png?nolink |}} \\ 
+\\ .
+ 
+Double click the model number to select it, this will open the flashing tab Other operations can be selected from the tabs at the top, instructions will also be shown in the log window before you have done anything. \\ \\ 
+\\ {{::z3x2.png?nolink |}} \\ 
+ \\ . \\ 
+Further guides for specific operations can be found in device pages\\ . 
+\\ 
+
+===== LG 2-3G Tool =====
+\\ 
+==== Info ====
+\\ 
+LG2-3G tool supports most LG mobiles released in the last 7 years, along with chimeratool it should be one of the go-to applications for LG operations.
+
+As with samsung tool pro you select the model you are working on in the list on the left of the window and instructions will be displayed in the main part of the window.
+
+image
+
+Unlike samsung tool this application does not have separate tabs for each function, double clicking the model will open the Workspace tab where all operations will be displayed as buttons on the right of the window.
+
+image
+
+Thankfully unlike samsung tool LG tool does not have nearly as many variances in the way it unlocks devices, almost all LG devices are handled via diagnostic mode (*#546368#*ModelNo#/277634#*# and select port check test) or download mode (hold Volume down and connect usb to device while powered off)
+\\ 
+

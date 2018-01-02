@@ -1,0 +1,21 @@
+====== Galaxy S4 Exynos I9500 ======
+\\ 
+[[samgti|Back]]
+\\
+===== Unlock: =====
+\\ 
+?
+\\ 
+===== Debrand: =====
+\\ 
+**NOTE** This device may not have a generic UK flash file\\ 
+To debrand device simply flash with a generic flash file via Odin and perform a factory reset\\ 
+\\ 
+===== Demo Remove: =====
+\\ 
+Check unit has a valid IMEI, many Samsung demo units do not have an IMEI\\ 
+To remove demo from device flash with 4 file engineering firmware package\\ 
+\\ 
+===== Factory Reset Protection (FRP) & Samsung Account: =====
+\\ 
+\\ 

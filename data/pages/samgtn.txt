@@ -1,0 +1,10 @@
+====== GT-Nxxxx Galaxy Note 2012/2013 ======
+
+  * [[samsung|Back]]
+  * [[samn7000|GT-N7000 Galaxy Note]]
+  * [[samn7100|GT-N7100 Galaxy Note 2 (Exynos)]]
+  * [[samn7105|GT-N7105 Galaxy Note 2 LTE]]
+  * [[samn8000|GT-N8000 Galaxy Note 10.1]]
+  * [[samn8010|GT-N8010 Galaxy Note 10.1 LTE]]
+  * [[samn9000|GT-N9000 Galaxy Note 3 (Exynos)]]
+  * [[samn9005|GT-N9005 Galaxy Note 3 LTE]]

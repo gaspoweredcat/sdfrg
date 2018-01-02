@@ -1,0 +1,3 @@
+====== S5830 ======
+
+Must be flashed with old Odin downloader and cooper.ops file

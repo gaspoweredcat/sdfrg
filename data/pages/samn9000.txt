@@ -1,0 +1,36 @@
+====== Galaxy Note 3 Exynos N9000 ======
+\\ 
+[[samgtn|Back]]\\ 
+\\ 
+This device requires a proprietary Samsung cable\\ 
+\\ 
+===== Unlock: =====
+\\ 
+Unlock with Z3X or Chimera.\\ 
+May require flash of engineering modem before unlock\\  
+\\ 
+To flash engineering modem:\\ 
+\\ 
+  - Boot device in download mode by holding Vol- Home & Power\\ 
+  - Connect device to PC via USB
+  - Open Odin and select the CP box
+  - Select D:/Samsung/Engineering_Modem/N9000_Eng_Modem.tar
+  - Press Start to flash
+  - Unlock device
+  - Reflash device with full firmware package
+\\ 
+===== Debrand: =====
+\\ 
+**NOTE** - This device doe not have a generic UK flash file\\ 
+To debrand device simply flash with a generic flash file via Odin and perform a factory reset\\ 
+\\ 
+===== Demo Remove: =====
+\\ 
+Check unit has a valid IMEI, many Samsung demo units do not have an IMEI\\ 
+To remove demo from device flash with 4 file engineering firmware package\\ 
+\\ 
+===== Factory Reset Protection (FRP) & Samsung Account: =====
+\\ 
+FRP is not implemented on devices below android 5.0\\ 
+Password/PIN/Pattern lock can be removed by resetting the device through recovery\\ 
+\\ 

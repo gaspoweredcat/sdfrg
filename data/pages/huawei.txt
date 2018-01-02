@@ -1,0 +1,35 @@
+====== Huawei Devices ======
+
+===== Phones =====
+
+[[huav10|V10]]\\ 
+[[huamate10pro|Mate 10 Pro]]\\ 
+[[huamate10|Mate 10]]\\ 
+[[huamate10lite|Mate 10 Lite]]\\
+[[huap9litemini|P9 Mini]]\\ 
+[[huay7prime|Y7 Prime]]\\ 
+[[huay7|Y7]]\\ 
+[[huanova2plus|Nova 2 Plus]]
+[[huanova|Nova 2]]\\ 
+[[huay6iic|Y6 II Compact]]\\ 
+[[huay62017|Y6 2017]]\\ 
+[[huay52017|Y5 2017]]\\ 
+[[huay32017|Y3 2017]]\\ 
+[[huap10pro|P10 Pro]]\\ 
+[[huap10|P10]]\\ 
+[[huap10lite|P10 Lite]]\\ 
+[[huamate9pro|Mate 9 Pro]]\\ 
+[[huamate9|Mate 9]]\\ 
+[[huap9plus|P9 Plus]]\\ 
+[[huap9|P9]]\\ 
+[[huap9|P9 Lite]]\\ 
+[[huay5ii|Y5 II]]\\ 
+[[huay3|Y3 II]]\\ 
+
+===== Tablets =====
+
+===== Watches =====
+
+===== Dongles & Routers =====
+
+

@@ -1,0 +1,27 @@
+====== Huawei P9 lite VNS-L31 ======
+
+===== Unlocking =====
+
+This device can be unlocked with Chimeratool and FuriousGold Flycaptain module
+
+  - Boot the device as normal and skip through startup wizard
+  - Open the dialler and enter *#*#2846579#*#*
+  - Select Background Settings
+  - Select USB Port settings
+  - Select Manufacture Mode and tap close
+  - Connect to PC with a micro USB cable
+  - (Furious Gold only) Press detect phone, Chimeratool will autodetect
+  - Press Unlock to remove sim locks
+
+===== Flashing =====
+
+  - Copy the dload folder from the device folder to the root of a micro SD card (minimum size 4Gb)
+  - Ensure the device has at least 30% battery, Please note this update will erase userdata
+  - Insert the Micro SD card into the devices SD card slot within the sim tray
+  - Boot the device and skip through all startup wizard steps
+  - Open the dialler and enter *#*#2846579#*#*
+  - Select Software Upgrade
+  - Select SDCard Upgrade
+  - At the “Are you sure?” prompt tap OK
+  - The device will now reboot into recovery mode and install the software update
+  - Once complete the device will reboot

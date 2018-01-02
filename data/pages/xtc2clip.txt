@@ -1,0 +1,32 @@
+====== XTC2 Clip ======
+\\ 
+The XTC2 Clip is a hardware device for unlocking HTC devices, it works by mimicking HTCs factory Java Card which is used in house for configuring almost all HTC devices, it is usually used by inserting it into the devices microSD card slot.
+
+===== Gen 2 devices =====
+\\ 
+HTC Gen 2 began with the HTC Sensation and continues to the M8s device.\\ 
+
+==== Devices with a micro SD card slot ====
+
+  - Insert the XTC2clip SD ribbon cable into the devices card slot
+  - Power the device into bootloader mode by holding Volume Down and Power
+  - The device will pause for a second and scan the card/clip
+  - Scroll down to SIMLOCK using the volume buttons and press power to select
+  - The device will now scan the card again, reboot and scan once more
+  - Once complete press Volume up to reboot (the device is now S-OFF)
+  - Boot the device into bootloader once again (Volume Down and Power)
+  - Connect the device to the PC and select FASTBOOT from the menu
+  - Open the device folder from the flash files drive
+  - Run the flash.bat file, this will flash the device with generic UK firmware
+  - Once the flash process completes the device will reboot to bootloader and set S-ON
+  - the device is now fully Unlocked and De-branded
+
+==== Devices without a micro SD card slot ====
+
+As there is no micro SD card slot and OTG functionality is disabled in hboot you will need to use a [[ycable|Y-Cable]] and a USB micro SD card reader\\
+
+Connect the micro USB plug on the Y-Cable to the device, connect the micro SD reader to the USB slot in the Y-Cable and connect the USB plug to a PC or USB charger, then continue with the process above from Step 2
+
+===== Gen3 Devices =====
+\\ 
+Please escalate these devices to the software team

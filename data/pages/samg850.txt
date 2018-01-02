@@ -1,0 +1,39 @@
+====== Galaxy Alpha G850F ======
+\\ 
+[[samsmg|Back]]
+\\
+===== Important Note =====
+\\ 
+__Please do not attempt any process on this device before consulting the software team as most operations carry a very high brick risk__
+
+===== Unlock: =====
+\\ 
+Unlock devices with either [[z3x|Z3X]] or [[chimera|Chimera tool]]\\ 
+May require flash of engineering modem before unlock\\  
+\\ 
+To flash engineering modem:\\ 
+\\ 
+  - Boot device in download mode by holding Vol- Home & Power\\ 
+  - Connect device to PC via USB
+  - Open Odin and select the CP box
+  - Select D:/Samsung/Engineering_Modem/G850F_Eng_Modem.tar
+  - Press Start to flash
+  - Unlock device
+  - Reflash device with full firmware package
+\\ 
+===== Debrand: =====
+\\ 
+**WARNING** - Flash only latest firmware package, Downgrade can cause **BRICKED** unit\\ 
+\\ 
+To debrand device simply flash with clean BTU (generic UK) flash file via Odin\\ 
+\\ 
+===== Demo Remove: =====
+\\ 
+**WARNING** - Flash only latest firmware package, Downgrade can cause **BRICKED** unit\\ 
+\\ 
+Check unit has a valid IMEI, many Samsung demo units do not have an IMEI\\ 
+To remove demo from device flash with 4 file engineering firmware package\\ 
+\\ 
+===== Factory Reset Protection (FRP) & Samsung Account: =====
+\\ 
+\\ 

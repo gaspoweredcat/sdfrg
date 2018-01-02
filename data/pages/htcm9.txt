@@ -1,0 +1,29 @@
+====== HTC M9 ======
+\\ 
+[[htc|Back]]\\ 
+[[\\10.10.40.22\flashfiles\HTC\M9\|Device Folder: Z:/HTC/M9/]]
+\\ 
+===== Unlocking =====
+ 
+This device is unlocked via [[xtc2clip|XTC2Clip]] hardware\\ 
+
+  - Insert XTC2Clip into the devices micro SD card slot
+  - Power the device on while holding Volume Up
+  - The device will boot into FTM mode and read the card
+  - When the device reboots the sim lock has been removed
+ 
+===== Flash & Debrand =====
+ 
+  - Set the device to [[htcsoff|S-Off]] via XTC2Clip
+  - Boot the device into Download mode by holding Volume down & Power
+  - Connect the device to the PC
+  - Run the Flash.bat file from the device folder on the server
+  - The device will now be automatically set to Generic UK CID and will be set to S-On at the end of the flash
+  - Ensure the device is set to S-on and repack
+
+===== FRP =====
+ 
+  - Insert the XTC2Clip into the devices SD card slot
+  - Boot the device into download mode by holding Volume down & power
+  - Scroll down to FACTORY RESET and select it with Power
+  - FRP has now been removed from the device 

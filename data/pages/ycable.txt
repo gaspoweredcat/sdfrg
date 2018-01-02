@@ -1,0 +1,5 @@
+====== Y-Cable ======
+\\ 
+This cable is used for HTC devices without a micro SD card slot, This cable works by allowing the connection of a USB micro SD reader with power being provided via a secondary USB connection\\ 
+
+{{ :htcycable.jpg?400 |}}

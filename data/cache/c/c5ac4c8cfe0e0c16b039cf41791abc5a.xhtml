@@ -1,0 +1,158 @@
+
+<h1 class="sectionedit1" id="samsung_galaxy_s6_edge_plus_g928f">Samsung Galaxy S6 Edge Plus G928F</h1>
+<div class="level1">
+
+<p>
+<br/>
+
+<a href="/doku.php?id=samsmg" class="wikilink1" title="samsmg">Back</a>
+<br/>
+
+</p>
+
+</div>
+<!-- EDIT1 SECTION "Samsung Galaxy S6 Edge Plus G928F" [1-71] -->
+<h2 class="sectionedit2" id="unlock">Unlock:</h2>
+<div class="level2">
+
+<p>
+<br/>
+
+Unlock devices with either <a href="/doku.php?id=z3x" class="wikilink1" title="z3x">Z3X</a> or <a href="/doku.php?id=chimera" class="wikilink1" title="chimera">Chimera tool</a><br/>
+
+<br/>
+
+This device must be flashed with COMBINATION firmware to unlock<br/>
+
+Combination packages can be found in D:/Samsung/Combination_Files/G928/ 
+<br/>
+
+</p>
+
+<p>
+To flash combination file:
+<br/>
+
+</p>
+<ol>
+<li class="level1"><div class="li"> Boot device in download mode by holding Vol- Home &amp; Power<br/>
+</div>
+</li>
+<li class="level1"><div class="li"> Connect device to PC via USB</div>
+</li>
+<li class="level1"><div class="li"> Open Odin and select the AP box</div>
+</li>
+<li class="level1"><div class="li"> Select D:/Samsung/Combination_Files/COMBINATION_FA51_G928FXXU2AOL2_CL5994902_QB7519622_REV00_user_mid_noship.tar</div>
+</li>
+<li class="level1"><div class="li"> Press Start to flash</div>
+</li>
+</ol>
+
+<p>
+<br/>
+
+To Unlock:
+<br/>
+
+</p>
+<ol>
+<li class="level1"><div class="li"> Open VHUI.exe and connect to Z3X box </div>
+</li>
+<li class="level1"><div class="li"> Open Z3X SamsungTool Pro from Start Menu</div>
+</li>
+<li class="level1"><div class="li"> Select G928F from the model selection menu</div>
+</li>
+<li class="level1"><div class="li"> Select the Unlock tab at the top of the window</div>
+</li>
+<li class="level1"><div class="li"> Boot the phone and skip through all startup menus</div>
+</li>
+<li class="level1"><div class="li"> Open the dialler and enter *#0808#</div>
+</li>
+<li class="level1"><div class="li"> Select DM+MODEM+ADB and connect phone to PC</div>
+</li>
+<li class="level1"><div class="li"> In the Port section at the top of the window select Samsung Modem port</div>
+</li>
+<li class="level1"><div class="li"> Press the unlock button (if the process fails try again)</div>
+</li>
+<li class="level1"><div class="li"> Once unlocked Flash device with full firmware</div>
+</li>
+</ol>
+
+</div>
+<!-- EDIT2 SECTION "Unlock:" [72-1154] -->
+<h2 class="sectionedit3" id="debrand">Debrand:</h2>
+<div class="level2">
+
+<p>
+<br/>
+
+To debrand device simply flash with clean BTU (generic UK) flash file via Odin<br/>
+
+<br/>
+
+</p>
+
+</div>
+<!-- EDIT3 SECTION "Debrand:" [1155-1265] -->
+<h2 class="sectionedit4" id="demo_remove">Demo Remove:</h2>
+<div class="level2">
+
+<p>
+<br/>
+
+Check unit has a valid IMEI, many Samsung demo units do not have an IMEI<br/>
+
+To remove demo from device flash with 4 file engineering firmware package<br/>
+
+<br/>
+
+</p>
+
+</div>
+<!-- EDIT4 SECTION "Demo Remove:" [1266-1451] -->
+<h2 class="sectionedit5" id="factory_reset_protection_frp_samsung_account">Factory Reset Protection (FRP) &amp; Samsung Account:</h2>
+<div class="level2">
+
+<p>
+<br/>
+
+Reset FRP &amp; Samsung account via Z3X box or Chimera tool UFS unlock<br/>
+
+<br/>
+
+This will require a USB to serial converter such as Z3X box and a Samsung compatible UART cable eg C3300K/B3410W/S7070, please ask the software team for these tools when you need them<br/>
+
+<a href="/lib/exe/detail.php?id=samg928&amp;media=c3300k-cable.jpg" class="media" title="c3300k-cable.jpg"><img src="/lib/exe/fetch.php?w=200&amp;tok=705478&amp;media=c3300k-cable.jpg" class="media" alt="" width="200" /></a> <a href="/lib/exe/detail.php?id=samg928&amp;media=z3xbox.jpg" class="media" title="z3xbox.jpg"><img src="/lib/exe/fetch.php?w=200&amp;tok=c92ea4&amp;media=z3xbox.jpg" class="mediaright" alt="" width="200" /></a>
+<br/>
+
+</p>
+
+</div>
+<!-- EDIT5 SECTION "Factory Reset Protection (FRP) & Samsung Account:" [1452-1834] -->
+<h3 class="sectionedit6" id="z3x_procedure">Z3X Procedure</h3>
+<div class="level3">
+
+<p>
+<a href="/doku.php?id=video" class="wikilink2" title="video" rel="nofollow">ufsfrp</a>
+</p>
+<ol>
+<li class="level1"><div class="li"> Boot device into download mode by holding Volume Down, Home and Power buttons or use a <a href="/doku.php?id=sambootjig" class="wikilink1" title="sambootjig">boot jig</a></div>
+</li>
+<li class="level1"><div class="li"> Connect the USB serial converter box to your PC</div>
+</li>
+<li class="level1"><div class="li"> Connect the RJ45 of the UART cable to your serial converter</div>
+</li>
+<li class="level1"><div class="li"> Connect the phone to the UART cable</div>
+</li>
+<li class="level1"><div class="li"> Select the COM port of your USB serial converter in the COM box at the top of the window</div>
+</li>
+<li class="level1"><div class="li"> Press Reset FRP UFS</div>
+</li>
+<li class="level1"><div class="li"> Hold Volume Down and power until instructed to release them</div>
+</li>
+<li class="level1"><div class="li"> The software will detect the device as it restarts and remove the reactivation locks</div>
+</li>
+</ol>
+
+</div>
+<!-- EDIT6 SECTION "Z3X Procedure" [1835-] -->

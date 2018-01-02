@@ -1,0 +1,25 @@
+====== Samsung ======
+
+  * [[start|Back]]
+
+===== Phones =====
+
+  * [[samgtb|GT-Bxxxx Galaxy Chat]]
+  * [[samgti|GT-Ixxxx Galaxy S (1st Gen)]]
+  * [[samgtn|GT-Nxxxx Galaxy Note (1st Gen)]]
+  * [[samgts|GT-Sxxxx Galaxy Ace etc]]
+  * [[samsma|SM-Axxx Galaxy A]]
+  * [[samsmg|SM-Gxxx Galaxy S (2nd Gen)]]
+  * [[samsmj|SM-Jxxx Galaxy J]]
+  * [[samsmn|SM-Nxxx Galaxy Note (2nd Gen)]]
+
+
+
+===== Tablets =====
+
+  * [[samgtp|GT-Pxxxx Galaxy Tab (1st Gen)]]
+  * [[samsmt|SM-Txxx Galaxy Tab (2nd Gen)]]
+
+===== Watches =====
+
+  * [[samsmr|SM-Rxxx Galaxy Gear]]

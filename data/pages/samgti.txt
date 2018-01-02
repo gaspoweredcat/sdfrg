@@ -1,0 +1,15 @@
+====== GT-Ixxxx Samsung Galaxy 2012/2013 ======
+
+  * [[samsung|Back]]
+  * [[sami8120|GT-I8120]]
+  * [[sami8190|GT-I8190 Galaxy S3 Mini]]
+  * [[sami9000|GT-I9000 Galaxy S]]
+  * [[sami9050|GT-I9050]]
+  * [[sami9100|GT-I9100 Galaxy S2]]
+  * [[sami9195|GT-I9195 Galaxy S4 Mini]]
+  * [[sami9200|GT-I9200 Galaxy Nexus S]]
+  * [[sami9250|GT-I9250 Galaxy Mega]]
+  * [[sami9300|GT-I9300 Galaxy S3 (Exynos)]]
+  * [[sami9305|GT-I9305 Galaxy S3 LTE]]
+  * [[sami9500|GT-I9500 Galaxy S4 (Exynos)]]
+  * [[sami9505|GT-I9505 Galaxy S4]]

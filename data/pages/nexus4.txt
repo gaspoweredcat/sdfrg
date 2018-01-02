@@ -1,0 +1,22 @@
+====== Google Nexus 4 ======
+\\ 
+[[nexus|Back]]
+
+===== Notes =====
+
+This device is manufactured by LG and can also be handled via LGUP using tot files
+
+===== Unlock =====
+
+As far as we are aware the nexus 4 was never shipped in a sim locked state 
+
+===== Flashing =====
+\\ 
+This guide will only cover flashing the device as a nexus, please see its LG page for LGUP instructions
+\\ 
+  - Boot the device into bootloader mode by holding Volume Down and power
+  - Connect the device to the PC and open its folder on the server\
+  - Run Unlock.bat This will remove the bootloader lock (depending on version you may need to enable [[oemunlock|OEM Unlock]]
+  - Once the bootloader is unlocked you can begin the flash by running flash-all.bat
+  - Once the flash is complete reboot to bootloader once more
+  - Run Lock.bat to re-lock the bootloader 

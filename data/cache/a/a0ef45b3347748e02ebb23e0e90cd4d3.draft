@@ -1,0 +1,36 @@
+a:6:{s:2:"id";s:4:"sony";s:6:"prefix";s:0:"";s:4:"text";s:1188:"====== Sony Xperia Devices ======
+
+===== NOTE WE CANNOT SIM UNLOCK SONY XPERIA DEVICES =====
+[[xperiasim|Details and Exceptions]]
+
+===== Generic Flash Instructions: =====
+
+All Sony devices are handled through Flashtool, Please follow the common flashing instructions below:
+
+  - Open Flashtool from the start menu on your PC
+  - Click the lightning bolt symbol at the top left of the window
+  - Select Flash Mode and click OK
+  - Select the device you are flashing from the list of devices
+  - Wait while files are unpacked, the program will prompt you to connect the device once complete
+  - Hold the Volume down button and connect the device
+  - If a prompt pops up asking if an FSC script should be used select Yes
+  - Wait while device is flashed
+  - Once complete the device will reboot automatically
+  - (if the device fails to reboot press the hardware reset button usually located in the sim card slot)
+
+
+===== Phones =====
+
+
+===== Tablets =====
+
+  * [[sonytabz|Tablet Z]]
+  * [[sonytabz2|Tablet Z2]]
+  * [[sonytabz3|Tablet Z3 Compact]]
+  * [[sonytabz4|Tablet Z4]]
+
+===== Watches =====
+
+  * [[sonysw2|Smartwatch 2]]
+  * [[sonysw3|Smartwatch 3]]
+";s:6:"suffix";s:0:"";s:4:"date";i:1507663060;s:6:"client";s:7:"ecdtech";}

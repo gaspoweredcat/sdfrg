@@ -1,0 +1,60 @@
+====== Galaxy S7 G930F ======
+\\ 
+[[samsmg|Back]]\\ 
+[[s7hw|Hardware Repair & Service Manuals]]
+\\
+===== Unlock: =====
+\\ 
+Unlock devices with either [[z3x|Z3X]] or [[chimera|Chimera tool]]\\  
+Flash of engineering modem before unlock\\  
+\\ 
+To flash engineering modem:
+\\ 
+  - Boot device in download mode by holding Vol- Home & Power\\ 
+  - Connect device to PC via USB
+  - Open Odin and select the CP box
+  - Select D:/Samsung/Engineering_Modem/G930F_Eng_Modem.tar
+  - Press Start to flash
+
+\\ 
+To Unlock:\\ 
+\\ 
+NOTE: While engineering modem is flashed it is common for the device to display IMEI: 0 this is normal and the imei will be restored upon flashing of the original modem after unlocking.\\ 
+
+  - Open VHUI.exe and connect to Z3X box 
+  - Open Z3X SamsungTool Pro from Start Menu
+  - Select G930F from the model selection menu
+  - Select the Unlock tab at the top of the window
+  - Boot the phone and skip through all startup menus
+  - Open the dialler and enter *#0808#  [[g9xxdiag|Video]]
+  - Select DM+MODEM+ADB and connect phone to PC
+  - In the Port section at the top of the window select Samsung Modem port  [[g9xxunlockz3x|Video]]
+  - Press the unlock button (if the process fails try again)
+  - Once unlocked Flash device with full firmware to restore original modem
+
+===== Debrand: =====
+\\ 
+To debrand device simply flash with clean BTU (generic UK) flash file via Odin\\ 
+\\ 
+===== Demo Remove: =====
+\\ 
+Check unit has a valid IMEI, many Samsung demo units do not have an IMEI\\ 
+To remove demo from device flash with 4 file engineering firmware package\\ 
+\\ 
+===== Factory Reset Protection (FRP) & Samsung Account: =====
+\\ 
+Reset FRP & Samsung account via Z3X box or Chimera tool UFS unlock\\ 
+\\ 
+This will require a USB to serial converter such as Z3X box and a Samsung compatible UART cable eg C3300K/B3410W/S7070, please ask the software team for these tools when you need them\\ 
+{{::c3300k-cable.jpg?200|}} {{ ::z3xbox.jpg?200|}} 
+\\ 
+==== Z3X Procedure ====
+[[Video|ufsfrp]]
+  - Boot device into download mode by holding Volume Down, Home and Power buttons or use a [[sambootjig|boot jig]]
+  - Connect the USB serial converter box to your PC
+  - Connect the RJ45 of the UART cable to your serial converter
+  - Connect the phone to the UART cable
+  - Select the COM port of your USB serial converter in the COM box at the top of the window
+  - Press Reset FRP UFS
+  - Hold Volume Down and power until instructed to release them
+  - The software will detect the device as it restarts and remove the reactivation locks

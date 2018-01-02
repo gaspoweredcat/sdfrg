@@ -1,0 +1,28 @@
+====== Galaxy Tab 3 7.0 T210======
+\\ 
+[[samsmt|Back]]
+\\
+===== Unlocking =====
+
+This device is WiFi only hence needs no unlock\\ 
+
+===== Flash & Debrand =====
+
+==== Flashing ====
+
+  - Put the device into download mode by holding Volume Down, Home and Power buttons
+  - Connect the device(s) to the PC via micro USB cable (up to 8 devices can be flashed simultaneously)
+  - Open Odin flash software on your PC
+  - click each button (BL,CP, AP and CSC) and add the matching files from the devices folder on the flash files drive
+  - Once all files are loaded click start to begin flashing
+  - Once flashing is complete it is advised to factory reset the device
+
+==== Debrand & Region Select ====
+
+Normally a simple flash is enough to debrand and change the devices region however occasionally this will fail and the device will retain its original language settings, in this case you will need to change the devices CSC manually by following the guide [[samcscsel|here]]\\ 
+
+===== Factory Reset Protection (FRP) & Samsung Account: =====
+\\ 
+FRP is not implemented on devices below android 5.0\\ 
+To remove Password/PIN/Pattern reset the device through recovery\\ 
+\\ 

@@ -1,0 +1,21 @@
+====== Galaxy Tab Pro 8.4" T320 ======
+\\ 
+[[samsmt|Back]]
+\\
+===== Unlock: =====
+\\ 
+Not a GSM device.
+\\ 
+===== Debrand: =====
+\\ 
+To debrand device simply flash with clean BTU (generic UK) flash file via Odin and perform a factory reset\\ 
+\\ 
+===== Demo Remove: =====
+\\ 
+To remove demo from device flash with 4 file engineering firmware package\\ 
+\\ 
+===== Factory Reset Protection (FRP) & Samsung Account: =====
+\\ 
+FRP is not implemented in devices below android 5.0\\ 
+To remove Password/PIN/Pattern reset the device through recovery\\ 
+\\ 

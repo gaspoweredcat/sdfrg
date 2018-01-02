@@ -1,0 +1,22 @@
+====== Google Nexus & Pixel Devices ======
+
+[[start|Back]]
+
+===== Phones =====
+
+  * [[gnexus|Google Nexus (HTC)]]
+  * [[nexuss|Google Nexus S (Samsung)]]
+  * [[nexus4|Nexus 4 (LG)]]
+  * [[nexus5|Nexus 5 (LG)]]
+  * [[nexus5x|Nexus 5X (LG)]]
+  * [[nexus6|Nexus 6 (Huawei)]]
+  * [[nexus6p|Nexus 6P (Huawei)]]
+  * [[pixel|Pixel (HTC)]]
+  * [[pixelxl|Pixel XL (HTC)]]
+
+===== Tablets =====
+
+  * [[nexus7|Nexus 7 (Asus)]]
+  * [[nexus72013|Nexus 7 2013 (Asus)]]
+  * [[nexus10|Nexus 10 (Samsung)]]
+  * [[pixelc|Pixel C (HTC)]]

@@ -1,0 +1,13 @@
+====== Nokia Lumia 710 ======
+\\ 
+===== Important Note =====
+\\ 
+__We CANNOT SIM unlock this device in house__
+
+===== Flashing =====
+\\ 
+  - Open the device folder from the flash files server
+  - Run the FullFlash.bat file
+  - connect the powered off device to the system and flashing will begin
+  - When complete the screen of the device will turn green
+  - Disconnect the battery or hold Volume Down and Power to reboot the device

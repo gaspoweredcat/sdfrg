@@ -1,0 +1,45 @@
+====== Galaxy S5+ G901F ======
+\\ 
+[[samsmg|Back]]
+\\
+===== Unlock: =====
+\\ 
+Unlock devices with either [[z3x|Z3X]] or [[chimera|Chimera tool]]\\  
+Flash of engineering modem before unlock\\  
+\\ 
+To flash engineering modem:
+\\ 
+  - Boot device in download mode by holding Vol- Home & Power\\ 
+  - Connect device to PC via USB
+  - Open Odin and select the CP box
+  - Select D:/Samsung/Engineering_Modem/G901F_Eng_Modem.tar
+  - Press Start to flash
+
+\\ 
+To Unlock:\\ 
+\\ 
+NOTE: While engineering modem is flashed it is common for the device to display IMEI: 0 this is normal and the imei will be restored upon flashing of the original modem after unlocking.\\ 
+
+  - Open VHUI.exe and connect to Z3X box 
+  - Open Z3X SamsungTool Pro from Start Menu
+  - Select G901F from the model selection menu
+  - Select the Unlock tab at the top of the window
+  - Boot the phone and skip through all startup menus
+  - Open the dialler and enter *#0808#  [[g9xxdiag|Video]]
+  - Select DM+MODEM+ADB and connect phone to PC
+  - In the Port section at the top of the window select Samsung Modem port  [[g9xxunlockz3x|Video]]
+  - Press the unlock button (if the process fails try again)
+  - Once unlocked Flash device with full firmware to restore original modem
+
+===== Debrand: =====
+\\ 
+No generic UK version of this device exists, nearest available flash is EVR (EE UK)\\ 
+\\ 
+===== Demo Remove: =====
+\\ 
+Check unit has a valid IMEI, many Samsung demo units do not have an IMEI\\ 
+To remove demo from device flash with 4 file engineering firmware package\\ 
+\\ 
+===== Factory Reset Protection (FRP) & Samsung Account: =====
+\\ 
+\\ 
