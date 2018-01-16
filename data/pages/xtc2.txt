@@ -33,3 +33,6 @@ NOTE this process does NOT remove SIM lock\\
   - Select the Special Unlock/IMEI tab
   - Select the device you want to unlock
   - Press the "Copy Files"button
+  - Insert the XTC2Clip into the micro SD slot of the device
+  - Power the device into FTM mode by holding Vol+ and power (it may take a several seconds to enter FTM mode)
+  - The application will now run on the device and clear the simlocks

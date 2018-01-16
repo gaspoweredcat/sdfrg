@@ -1,0 +1,22 @@
+====== Furious Gold ======
+
+Furious Gold is divided into Packs, only 3-4 packs may be loaded onto a Box/Dongle at any one time, if the pack you require is not loaded on the dongle please reload it with the Maintenance application. 
+
+Please note expired furious dongles can only be reloaded on the servers "Happy Day" currently FuriousGold3 is the only dongle available which can be reloaded at any time. Please do not reload dongles without informing the software team first.
+
+===== Modules/Packs: =====
+
+[[furmaint|Maintenance]]\\  
+[[qcomsmart|[PACK5] QCom Smart Tool]]\\ 
+[[otzflasher|[PACK6] OTZFlasher]]\\ 
+[[otsmart|[PACK6] OTSmart]]\\ 
+[[flycaptain|[PACK7] Flycaptain Huawei Module]]\\ 
+[[chimera|[PACK13&14] Chimeratool]]
+
+===== Compatibility =====
+
+You can check which devices are compatible with Furious Gold at the link below, it will also tell you which module you need to use for the device if it is supported
+
+[[http://www.furiousgold.com/en/brands|Furious Gold Supported Models]]
+
+You can either browse bu make/model or search for your specific device using the search box at the upper right of the screen 

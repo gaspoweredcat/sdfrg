@@ -1,0 +1,34 @@
+====== Moto G4 Play XT1604 ======
+
+[[motorola|Back]]
+
+===== Unlocking =====
+
+We **CANNOT** currently network unlock this device
+
+===== Flashing =====
+
+Motorola devices can be flashed via fastboot or using Motorolas RSDLite application which is also capable of multi flashing devices.
+
+==== RSDLite ====
+
+  - Open the RSDLite application from the start menu
+  - Click the dots next to the Filename box to select the flash file
+  - Browse to the motorola section of the flash files folder and choose the model you are flashing
+  - Select either the flashfile.xml or full zip flash package (NOTE: xml packages will be faster as they do not have to be unzipped)
+  - Connect the devices to be flashed to the PC and power on while holding Vol- to enter flash mode
+  - Click the Show Device button and ensure all devices are displayed
+  - Click Start to begin flashing devices
+  - Devices will reboot once complete. you can now repack the device
+
+==== Fastboot ====
+
+Devices can also be flashed with mfastboot (a motorola modified fastboot binary) you can flash individual partitions by issuing standard fastboot commands for example //mfastboot flash recovery recovery.img// however it is recommended to flash motorola devices with RSDLite whenever it is possible
+
+===== FRP =====
+
+UFST and Miraclebox are the most reliable solutions available to remove FRP on this device. This guide will focus on UFST, a video for miracle box can be found at the link at the end of this section
+
+    process
+
+Miracle box method can be seen [[miraclemotfrp|here]].
