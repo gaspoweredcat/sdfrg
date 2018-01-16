@@ -1,0 +1,13 @@
+====== Best Practice ======
+
+[[blackberry|Back]]
+
+There are many potential issues with blackberry devices especially because many services for them are being shut down as the OS dies, to get a unit into the best possible state follow these steps:
+
+  - Remove the SIM lock from the device with Chimeratool
+  - Change the VendorID to an unbranded version (Such as 301) with Chimeratool
+  - (Optional) Change the keyboard layout to match the devices keypad using Chimeratool if needed
+  - Full flash the device with a stock firmware via an Autoloader or Chimeratool
+  - Reset the device via Blackberry desktop manager
+
+If you follow this flow of processes you should have the unit in the best possible condition for resale

@@ -1,0 +1,47 @@
+====== V10 ======
+
+===== Flashing =====
+
+To flash Huawei devices you will need a micro SD card of at least 4Gb and a micro SD reader for copying files. the device must also have been set to the correct region before it can be flashed
+
+  - Open the device folder from the Huawei section of the flash files drive
+  - Insert the micro SD card into the reader and connect to the PC
+  - copy the folder called dload to the root of the micro SD card
+  - Insert the micro SD card into the device
+  - boot the device while holding Vol+ and Vol- and the flash will begin
+  - Once complete the device will reboot, remove the micro SD card and repack the device
+
+If flashing fails you will need to change the devices region code to match that of the file you are trying to flash
+
+===== Unlocking =====
+
+The best devices for unlocking of Huawei devices are Furious Gold, [[chimerahuaunlk|Chimeratool]] and [[sigmahuaunlk|Sigmakey]]. The unlock methods are fairly similar across all solutions, this guide will cover using furious gold flycaptain module but video for the other methods can be found on the links above.
+
+  - Boot the phone and skip through all startup menus
+  - Open the dialler and enter *#*#2846579#*#*
+  - Select Project Menu>Background Settings>USB Port>Manufacture Mode 
+  - Connect the device to the PC
+  - Open VHUI and connect to a furiousgold module then open flycaptain module from the Unlocking/FuriousGold folder
+  - Click Detect Phone
+  - Ensure Direct Unlock and Unlock Customization and Downgrade Limitations are checked
+  - Press Do Job 
+  - **NOTE** This removes the sim lock but it does not change the region code for flashing
+
+===== Region Change =====
+
+You will need to change the region code of the device before it can be flashed with a generic firmware file, This guide will use FuriosGold flycaptain module, videos for other processes can be found at the end.
+
+  - Boot the phone and skip through all startup menus
+  - Open the dialler and enter *#*#2846579#*#*
+  - Select Project Menu>Background Settings>USB Port>Manufacture Mode 
+  - Connect the device to the PC
+  - Open VHUI and connect to a furiousgold module then open flycaptain module from the Unlocking/FuriousGold folder
+  - Select the Repair UMTS tab
+  - Select the Vendor box and enter hw
+  - Select the Country box and enter eu
+  - Press Repair to write the values
+  - Now flash the device with the matching firmware
+
+Video of this process using [[sigmahuaregion|SigmaKey]]
+
+===== FRP =====

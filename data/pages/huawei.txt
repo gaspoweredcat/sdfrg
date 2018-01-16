@@ -9,7 +9,7 @@
 [[huap9litemini|P9 Mini]]\\ 
 [[huay7prime|Y7 Prime]]\\ 
 [[huay7|Y7]]\\ 
-[[huanova2plus|Nova 2 Plus]]
+[[huanova2plus|Nova 2 Plus]]\\ 
 [[huanova|Nova 2]]\\ 
 [[huay6iic|Y6 II Compact]]\\ 
 [[huay62017|Y6 2017]]\\ 
@@ -28,8 +28,17 @@
 
 ===== Tablets =====
 
+[[huat18|Mediapad T1 8" S8-701u]]
+[[huat110|Mediapad T1 10" T1-A21L]]\\ 
+
 ===== Watches =====
+
+[[huawatch|Huawei Watch]]\\ 
+[[huawatchsp|Huawei Watch Sport]]\\ 
+[[huawatch2|Huawei 2 Watch]]\\ 
+[[huawatch2sp|Huawei Watch 2 Sport]]\\ 
 
 ===== Dongles & Routers =====
 
+[[b310|B310&B315 (aka Three HomeFi)]] 
 

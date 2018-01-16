@@ -1,4 +1,4 @@
-a:2:{s:7:"current";a:8:{s:4:"date";a:2:{s:7:"created";i:1512136429;s:8:"modified";i:1513759670;}s:7:"creator";s:12:"paul couzens";s:4:"user";s:7:"ecdtech";s:11:"last_change";b:0;s:5:"title";s:14:"Huawei Devices";s:11:"description";a:2:{s:15:"tableofcontents";a:5:{i:0;a:4:{s:3:"hid";s:14:"huawei_devices";s:5:"title";s:14:"Huawei Devices";s:4:"type";s:2:"ul";s:5:"level";i:1;}i:1;a:4:{s:3:"hid";s:6:"phones";s:5:"title";s:6:"Phones";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:2;a:4:{s:3:"hid";s:7:"tablets";s:5:"title";s:7:"Tablets";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:3;a:4:{s:3:"hid";s:7:"watches";s:5:"title";s:7:"Watches";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:4;a:4:{s:3:"hid";s:15:"dongles_routers";s:5:"title";s:17:"Dongles & Routers";s:4:"type";s:2:"ul";s:5:"level";i:2;}}s:8:"abstract";s:266:"Huawei Devices
+a:2:{s:7:"current";a:9:{s:4:"date";a:2:{s:7:"created";i:1512136429;s:8:"modified";i:1516093695;}s:7:"creator";s:12:"paul couzens";s:4:"user";s:7:"ecdtech";s:11:"last_change";a:8:{s:4:"date";i:1516093695;s:2:"ip";s:11:"10.10.40.26";s:4:"type";s:1:"E";s:2:"id";s:6:"huawei";s:4:"user";s:7:"ecdtech";s:3:"sum";s:0:"";s:5:"extra";s:0:"";s:10:"sizechange";i:255;}s:11:"contributor";a:1:{s:7:"ecdtech";s:12:"paul couzens";}s:5:"title";s:14:"Huawei Devices";s:11:"description";a:2:{s:15:"tableofcontents";a:5:{i:0;a:4:{s:3:"hid";s:14:"huawei_devices";s:5:"title";s:14:"Huawei Devices";s:4:"type";s:2:"ul";s:5:"level";i:1;}i:1;a:4:{s:3:"hid";s:6:"phones";s:5:"title";s:6:"Phones";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:2;a:4:{s:3:"hid";s:7:"tablets";s:5:"title";s:7:"Tablets";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:3;a:4:{s:3:"hid";s:7:"watches";s:5:"title";s:7:"Watches";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:4;a:4:{s:3:"hid";s:15:"dongles_routers";s:5:"title";s:17:"Dongles & Routers";s:4:"type";s:2:"ul";s:5:"level";i:2;}}s:8:"abstract";s:419:"Huawei Devices
 
 Phones
 
@@ -17,6 +17,7 @@ Y7 Prime
 Y7
 
 Nova 2 Plus
+
 Nova 2
 
 Y6 II Compact
@@ -50,6 +51,21 @@ Y3 II
 
 Tablets
 
+Mediapad T1 8" S8-701u
+Mediapad T1 10" T1-A21L
+
+
 Watches
 
-Dongles & Routers";}s:8:"relation";a:2:{s:10:"references";a:22:{s:6:"huav10";b:0;s:12:"huamate10pro";b:0;s:9:"huamate10";b:0;s:13:"huamate10lite";b:0;s:13:"huap9litemini";b:0;s:10:"huay7prime";b:0;s:5:"huay7";b:0;s:12:"huanova2plus";b:0;s:7:"huanova";b:0;s:8:"huay6iic";b:0;s:9:"huay62017";b:0;s:9:"huay52017";b:0;s:9:"huay32017";b:0;s:9:"huap10pro";b:0;s:6:"huap10";b:0;s:10:"huap10lite";b:0;s:11:"huamate9pro";b:0;s:8:"huamate9";b:0;s:9:"huap9plus";b:0;s:5:"huap9";b:1;s:7:"huay5ii";b:0;s:5:"huay3";b:0;}s:10:"firstimage";s:0:"";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}}s:10:"persistent";a:4:{s:4:"date";a:1:{s:7:"created";i:1512136429;}s:7:"creator";s:12:"paul couzens";s:4:"user";s:7:"ecdtech";s:11:"last_change";b:0;}}
+Huawei Watch
+
+Huawei Watch Sport
+
+Huawei 2 Watch
+
+Huawei Watch 2 Sport
+
+
+Dongles & Routers
+
+B310&B315 (aka Three HomeFi)";}s:8:"relation";a:2:{s:10:"references";a:29:{s:6:"huav10";b:1;s:12:"huamate10pro";b:1;s:9:"huamate10";b:1;s:13:"huamate10lite";b:1;s:13:"huap9litemini";b:1;s:10:"huay7prime";b:1;s:5:"huay7";b:1;s:12:"huanova2plus";b:1;s:7:"huanova";b:1;s:8:"huay6iic";b:1;s:9:"huay62017";b:1;s:9:"huay52017";b:1;s:9:"huay32017";b:1;s:9:"huap10pro";b:1;s:6:"huap10";b:1;s:10:"huap10lite";b:1;s:11:"huamate9pro";b:1;s:8:"huamate9";b:1;s:9:"huap9plus";b:1;s:5:"huap9";b:1;s:7:"huay5ii";b:1;s:5:"huay3";b:1;s:6:"huat18";b:0;s:7:"huat110";b:0;s:8:"huawatch";b:0;s:10:"huawatchsp";b:0;s:9:"huawatch2";b:0;s:11:"huawatch2sp";b:0;s:4:"b310";b:0;}s:10:"firstimage";s:0:"";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}}s:10:"persistent";a:5:{s:4:"date";a:2:{s:7:"created";i:1512136429;s:8:"modified";i:1516093695;}s:7:"creator";s:12:"paul couzens";s:4:"user";s:7:"ecdtech";s:11:"last_change";a:8:{s:4:"date";i:1516093695;s:2:"ip";s:11:"10.10.40.26";s:4:"type";s:1:"E";s:2:"id";s:6:"huawei";s:4:"user";s:7:"ecdtech";s:3:"sum";s:0:"";s:5:"extra";s:0:"";s:10:"sizechange";i:255;}s:11:"contributor";a:1:{s:7:"ecdtech";s:12:"paul couzens";}}}

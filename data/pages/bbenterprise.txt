@@ -1,0 +1,47 @@
+====== Blackberry Enterprise ======
+
+[[blackberry|Back]]
+
+===== What is Enterprise =====
+
+the first thing to do is to identify if an enterprise account (also known as an IT Policy) is enabled. Please note enterprise activation has nothing to do with being able to access webmail services such as gmail or other 3rd party services, these are generally defined by the software and service books on the device so its important to know the difference between what is and isnt an issue with an IT policy
+
+==== How to Check ====
+
+To check if an IT Policy is present on a BlackBerry smartphone, complete the steps for the corresponding device software version:
+
+**For BlackBerry 10 OS version 10.2.1 and later:**
+
+  - From the home screen, swipe down and tap Settings.
+  - Tap About.
+  - In the Category drop-down, select Work Space.
+  - The IT Policy details will be listed under the IT Policy heading.
+
+**For BlackBerry OS version 6 to 7.1:**
+
+  - From the home screen, select Options > Security > Security Status Information.
+  - The IT Policy details will be listed under the IT Policy heading.
+  - Note: If there is no IT Policy header or only No Services is displayed, then there is no IT Policy assigned to the smartphone.
+
+**For BlackBerry Device Software 5.0:**
+
+  - From the home screen, select Options > Security Options > Information or General Settings
+  - IT Policy details will be listed under the Services header.
+  - Note: Often when there is an IT Policy, Desktop will be listed. If No Services is displayed, then there is no IT Policy assigned to the smartphone
+
+If a there is no policy on the device then the problem is with the software or service books available on the device
+
+==== How to clear an IT Policy ====
+
+Removing enterprise association is reasonably quick and simple.
+
+  * Open Blackberry device manager and connect your device
+  * Click the question mark icon at the top right of the window
+  * Click Support Resources
+  * Click Support Tools 
+{{:bbent1.png?400|}} \\ 
+  * Click the Reset button under Reset To Factory Settings 
+{{:bbent2.png?400|}} \\ 
+  * The device will now begin resetting 
+{{:bbent3.png?400|}} \\ 
+  * Once the reset is complete the IT policy is removed

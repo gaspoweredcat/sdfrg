@@ -6,8 +6,11 @@
 
 Autoloaders are a convenient way to reload blackberry software and do not require a dongle to use\\
 
-  - Open \Blackberry\BB4-7_Devices\AutoLoaders from the flash file server
+  - Open Z:\Blackberry\BB4-7_Devices\AutoLoaders from the flash file server
+{{::bb-auto1.png?400|}}
+  - Select the folder for the device you are flashing
   - Double click the .exe file for the model you want to flash
+{{::bb-auto2.png?400|}}
   - Connect the device to the PC
   - The software will detect the device and begin flashing
   - Once the process is complete the window will close and the device will reboot
@@ -96,3 +99,7 @@ If there is no autoloader available please use Chimeratool to flash the device
 {{::chimera-bb-kb3.png?400|}}
 
 ===== Enterprise Account Removal =====
+
+Please see the page linked below with regards to enterprise removal, there is a lot of confusion over what exactly it is and how it is removed:
+
+[[bbenterprise|Enterprise Account Removal]]
